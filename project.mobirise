@@ -42,7 +42,7 @@
         "url": "https://fonts.googleapis.com/css?family=Varela+Round:400"
       }
     ],
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/feedays-new-icon.png",
     "mbrsiteDomain": "feedays",
     "imageResize": false,
     "robotsSwitcher": false,
@@ -51,7 +51,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 21,
     "versionPublish": "5.4.1"
   },
@@ -59,7 +59,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Feed Days ‧ 豢日",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
