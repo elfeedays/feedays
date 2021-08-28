@@ -58,8 +58,8 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/feed-days-light-blk.png",
-    "mbrsiteDomain": "yibnwanmce",
-    "imageResize": true,
+    "mbrsiteDomain": "kk9rjyc0rc",
+    "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
