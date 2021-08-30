@@ -79,7 +79,8 @@
         "meta_descr": "No man is an island,\nembrace our days and make us into a mainland.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/f1010007-4.jpeg"
       },
       "components": [
         {
